@@ -17,5 +17,5 @@ Hi, I am Keshav! I am a computer science student passionate about software devel
 Here is a track record of my day-to-day learnings. Each day corresponds to a specific folder in this repository.
 
 * **Day 1:** Learned how Python handles variables in memory, namespace dictionaries, mutable vs immutable objects, and input() memory allocation.
-* **Day 2:** [Upcoming...]
+* **Day 2:** [Take Big Picture of Python Data Types](Day_2/datatypes.md)
 * **Day 3:** [Upcoming...]
