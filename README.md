@@ -19,7 +19,7 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 1:** Learned how Python handles variables in memory, namespace dictionaries, mutable vs immutable objects, and input() memory allocation.
 * **Day 2:** [Take Big Picture of Python Data Types](python-90-days-challenge/Day_2/datatypes.md)
 * **Day 3:** [Internals in Python](python-90-days-challenge/Day_3/internals_in_python/internals_in_python.md)
-* **Day 4:** [Upcoming...]
+* **Day 4:** [Numbers in Python](python-90-days-challenge/Day_4/numbers_in_python/numbers_in_python.md)
 * **Day 5:** [Upcoming...]
 * **Day 6:** [Upcoming...]
 * **Day 7:** [Upcoming...]
