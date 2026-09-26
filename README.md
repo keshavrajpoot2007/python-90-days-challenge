@@ -20,9 +20,9 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 2:** [Take Big Picture of Python Data Types](python-90-days-challenge/Day_2/datatypes.md)
 * **Day 3:** [Internals in Python](python-90-days-challenge/Day_3/internals_in_python/internals_in_python.md)
 * **Day 4:** [Numbers in Python](python-90-days-challenge/Day_4/numbers_in_python/numbers_in_python.md)
-* **Day 5:** [Strings_in_Python](python-90-days-challenge/Day_5/strings_in_python/strings_in_python.md)
+* **Day 5:** [Strings in Python](python-90-days-challenge/Day_5/strings_in_python/strings_in_python.md)
 * **Day 6:** [Practice Day](python-90-days-challenge/Day_6/practice_numbers_&_strings/)
-* **Day 7:** [Upcoming...]
+* **Day 7:** [List in Python](python-90-days-challenge/Day_7/list_in_python/list_in_python.md) 
 * **Day 8:** [Upcoming...]
 * **Day 9:** [Upcoming...]
 * **Day 10:** [Upcoming...]
