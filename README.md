@@ -23,7 +23,7 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 5:** [Strings in Python](python-90-days-challenge/Day_5/strings_in_python/strings_in_python.md)
 * **Day 6:** [Practice Day](python-90-days-challenge/Day_6/practice_numbers_&_strings/)
 * **Day 7:** [List in Python](python-90-days-challenge/Day_7/list_in_python/list_in_python.md) 
-* **Day 8:** [Upcoming...]
+* **Day 8:** [Dictionary in Python, Day 1](python-90-days-challenge/Day_8/dictionary_in_python_day_1)
 * **Day 9:** [Upcoming...]
 * **Day 10:** [Upcoming...]
 * **Day 11:** [Upcoming...]
