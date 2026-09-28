@@ -6,7 +6,7 @@ I intentionally test unwanted and tricky edge cases to see exactly what happens 
 
 *Note: I didn't upload my shell logs for the first 6 days, but starting today (Day 7), I will be uploading my daily REPL work.*
 
-```python-repl
+```python
 
 keshav@ke-h-v:~/Python_The_Ultimate_World$ python3
 Python 3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0] on linux

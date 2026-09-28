@@ -1,4 +1,4 @@
-# Day 7: Raw Python Shell (REPL) Work
+# Day 8: Raw Python Shell (REPL) Work
 
 This log contains my raw terminal session while learning **Dictionaries in Python**.
 
