@@ -26,4 +26,13 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 8:** [Dictionary in Python, Day 1](python-90-days-challenge/Day_8/dictionary_in_python_day_1)
 * **Day 9:** [Dictionary in Python, Day 2](python-90-days-challenge/Day_9/dictionary_in_python_day_2/dictionaries_in_python.md)
 * **Day 10:** [Tuple in Python](python-90-days-challenge/Day_10/tuple_in_python/tuples_in_python.md)
-* **Day 11:** [Upcoming...]
+* **Day 11:** [Practice list dictionary & tuple, Day 1](python-90-days-challenge/Day_11/practice_list_dictionary_tuple_day_1/)
+* **Day 12:**[Upcoming...]
+* **Day 13:**[Upcoming...]
+* **Day 14:**[Upcoming...]
+* **Day 15:**[Upcoming...]
+* **Day 16:**[Upcoming...]
+* **Day 17:**[Upcoming...]
+* **Day 18:**[Upcoming...]
+* **Day 19:**[Upcoming...]
+* **Day 20:**[Upcoming...]
