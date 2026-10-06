@@ -32,7 +32,7 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 14:**[Loops in Python](python-90-days-challenge/Day_14/loops_in_python/question.md)
 * **Day 15:**[Printing Patterns in Python, Day 1](python-90-days-challenge/Day_15/print_patterns_day_1)
 * **Day 16:**[Printing Patterns in Python, Day 2](python-90-days-challenge/Day_16/print_patterns_day_2)
-* **Day 17:**[Upcoming...]
+* **Day 17:**[Printing Patterns in Python, Day 3](python-90-days-challenge/Day_17/print_patterns_day_3)
 * **Day 18:**[Upcoming...]
 * **Day 19:**[Upcoming...]
 * **Day 20:**[Upcoming...]
