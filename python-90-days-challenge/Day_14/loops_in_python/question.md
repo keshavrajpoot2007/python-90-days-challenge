@@ -1,5 +1,7 @@
 # Loops in Python
 
+*Note: These questions i get from https://github.com/hiteshchoudhary/chai-aur-python/blob/f78246570353066c55f6b4225e5731c9a6083a24/02_conditionals/questions.md?plain=1 repository. I am just sharing it here for my own practice and learning purpose.*
+
 <details>
 <summary>
 1. Counting Positive Numbers
