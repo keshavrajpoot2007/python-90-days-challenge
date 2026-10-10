@@ -36,3 +36,13 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 18:**[Behind the Scenes of Loops in Python](python-90-days-challenge/Day_18/bts_of_loops/loops_in_python.md)
 * **Day 19:**[Loop tools in Python](python-90-days-challenge/Day_19/loop_tools/)
 * **Day 20:**[Functions in Python, Day 1](python-90-days-challenge/Day_20/functions_in_python_day_1/questions.md)
+* **Day 21:**[Functions in Python, Day 2](python-90-days-challenge/Day_21/functions_in_python_day_2)
+* **Day 22:**[Upcoming...]
+* **Day 23:**[Upcoming...]
+* **Day 24:**[Upcoming...]
+* **Day 25:**[Upcoming...]
+* **Day 26:**[Upcoming...]
+* **Day 27:**[Upcoming...]
+* **Day 28:**[Upcoming...]
+* **Day 29:**[Upcoming...]
+* **Day 30:**[Upcoming...]
