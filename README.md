@@ -41,7 +41,7 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 23:**[Practice Day](python-90-days-challenge/Day_23/practice_day/)
 * **Day 24:**[Practice Day](python-90-days-challenge/Day_24/practice_day/)
 * **Day 25:**[Scopes and Closures in Python](python-90-days-challenge/Day_25/scopes_&_closure_in_python/)
-* **Day 26:**[Upcoming...]
+* **Day 26:**[OOP's in Python](python-90-days-challenge/Day_26/oops/)
 * **Day 27:**[Upcoming...]
 * **Day 28:**[Upcoming...]
 * **Day 29:**[Upcoming...]
