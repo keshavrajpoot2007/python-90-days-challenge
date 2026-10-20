@@ -46,7 +46,7 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 28:**[OOP's in Python, Day 3](python-90-days-challenge/Day_28/oops_day_3/)
 * **Day 29:**[Practice Day](python-90-days-challenge/Day_29/practice_day/)
 * **Day 30:**[Practice Day](python-90-days-challenge/Day_30/practice_day/)
-* **Day 31:**[Upcoming...]
+* **Day 31:**[Constructor in Python](python-90-days-challenge/Day_31/constructor_in_python/)
 * **Day 32:**[Upcoming...]
 * **Day 33:**[Upcoming...]
 * **Day 34:**[Upcoming...]
