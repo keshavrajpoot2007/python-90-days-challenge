@@ -52,7 +52,7 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 34:**[Inheritance in Python, Day 2](python-90-days-challenge/Day_34/inheritance_in_python_day_2/)
 * **Day 35:**[Access Modifiers in Python](python-90-days-challenge/Day_35/access_modifier_in_python/)  
 * **Day 36:**[Practice Day](python-90-days-challenge/Day_36/practice_day/)
-* **Day 37:**[Upcoming...]
+* **Day 37:**[Practice Day](python-90-days-challenge/Day_37/practice_day/)
 * **Day 38:**[Upcoming...]
 * **Day 39:**[Upcoming...]
 * **Day 40:**[Upcoming...]
