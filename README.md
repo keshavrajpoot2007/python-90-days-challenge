@@ -58,3 +58,4 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 40:**[Polymorphism, Day 3](python-90-days-challenge/Day_40/polymorphism_day_3/)
 * **Day 41:**[Practice Day](python-90-days-challenge/Day_41/practice_day/)
 * **Day 42:**[Practice Day](python-90-days-challenge/Day_42/practice_day/)
+* **Day 43:**[Practice Day](python-90-days-challenge/Day_43/practice_day/)
