@@ -62,3 +62,4 @@ Here is a track record of my day-to-day learnings. Each day corresponds to a spe
 * **Day 44:**[Practice Day](python-90-days-challenge/Day_44/practice_day/)
 * **Day 45:**[Practice Day](python-90-days-challenge/Day_45/practice_day/)
 * **Day 46:**[Decorators in Python, Day 1](python-90-days-challenge/Day_46/decorator_day_1/)
+* **Day 47:**[Practice Day](python-90-days-challenge/Day_47/practice_day/)
